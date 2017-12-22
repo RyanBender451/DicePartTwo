@@ -10,6 +10,11 @@ namespace DicePartTwo
     {
         static void Main(string[] args)
         {
+            string diceType = "";
+            Random diceNum = new Random();
+            int numEnd = 0;
+
+
         }
     }
 }
